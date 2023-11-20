@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MrSu</string>
+    <string name="Timetable">Расписание</string>
+    <string name="but_left"> « </string>
+    <string name="but_right"> » </string>
+    <string name="data"> 24.11.2003 </string>
+</resources>
